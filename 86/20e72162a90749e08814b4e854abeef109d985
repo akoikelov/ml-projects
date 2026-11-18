@@ -1,0 +1,19 @@
+README.md
+  s_83589d7319fe2a::t_eff1bd7b511f5c 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8620e72162a90749e08814b4e854abeef109d985",
+  "prompts": {},
+  "sessions": {
+    "s_83589d7319fe2a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e713d31-c989-4d28-b791-4f30730061d5",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Aikol Koikelov <aikol.koikelov@railsware.com>"
+    }
+  }
+}
